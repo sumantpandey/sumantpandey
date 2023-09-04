@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @sumantpandey a full stack developer
 - 👀 I’m interested in solving complex problems, writing APIs for distributed systems. Developing microservices and event based secure, reliable and scalable application.
 - 🌱 I’m currently learning AWS solution architecture.
-- 💞️ I’m looking to collaborate on Angular/React/Java 11/kafka/AWS/Docker/Kubernetes/Openshift/Springboot/Oauth/JPA.
+- 💞️ I’m looking to collaborate on Angular/React/Java 11/kafka/AWS/Docker/Kubernetes/Openshift/Springboot/Oauth/JPA/Blockchain.
 - 📫 How to reach me 
 
 <!---
